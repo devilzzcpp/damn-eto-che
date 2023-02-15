@@ -1,0 +1,18 @@
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\bin\Debug\net6.0-windows\c sharp tipo.exe
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\bin\Debug\net6.0-windows\c sharp tipo.deps.json
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\bin\Debug\net6.0-windows\c sharp tipo.runtimeconfig.json
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\bin\Debug\net6.0-windows\c sharp tipo.dll
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\bin\Debug\net6.0-windows\c sharp tipo.pdb
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\obj\Debug\net6.0-windows\c sharp tipo.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\obj\Debug\net6.0-windows\c_sharp_tipo.Form1.resources
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\obj\Debug\net6.0-windows\c sharp tipo.csproj.GenerateResource.cache
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\obj\Debug\net6.0-windows\c sharp tipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\obj\Debug\net6.0-windows\c sharp tipo.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\obj\Debug\net6.0-windows\c sharp tipo.AssemblyInfo.cs
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\obj\Debug\net6.0-windows\c sharp tipo.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\obj\Debug\net6.0-windows\c sharp tipo.dll
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\obj\Debug\net6.0-windows\refint\c sharp tipo.dll
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\obj\Debug\net6.0-windows\c sharp tipo.pdb
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\obj\Debug\net6.0-windows\c sharp tipo.genruntimeconfig.cache
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\obj\Debug\net6.0-windows\ref\c sharp tipo.dll
+C:\Users\user\Documents\Скрябин Роман\startup\проектики\c sharp tipo\obj\Debug\net6.0-windows\c_sharp_tipo.Properties.Resources.resources
